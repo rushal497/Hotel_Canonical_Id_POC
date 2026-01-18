@@ -1,8 +1,8 @@
-# Hotel Deduplication Project
+# Hotel Identity Resolution & Deduplication Pipeline
 
 ## Overview
 
-This project is designed to process and deduplicate hotel data. It includes geocoding, distance calculations, and utilities for normalization.
+This project provides a robust pipeline for hotel data deduplication and canonicalization. It ingests raw hotel data, normalizes and enriches it with geocoding, detects duplicates using spatial and fuzzy logic, assigns canonical IDs, and outputs golden records for unique properties. Designed for scalability and stewardship, it supports multi-source ingestion, advanced normalization, multi-tier geocoding, and flexible reporting.
 
 ## Project Structure
 
