@@ -1,0 +1,8 @@
+# requirements.txt
+# List of dependencies for the project
+
+# Example dependencies
+requests
+pandas
+haversine
+openpyxl

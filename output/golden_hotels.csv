@@ -1,0 +1,14 @@
+Hotel Name,Hotel Address,Hotel City,Hotel Zip,GDS Code,Enriched_Lat,Enriched_Lon,Geo_Source,Geo_Status,Row_Id,Norm_Hotel_Name,Norm_Hotel_Address,Norm_Hotel_City,Norm_Hotel_Zip,Id
+  Citizen M Chicago Downtown,80 East Wacker Place,Chicago,60601,463829,41.8870211,-87.62502143663738,locationiq,success,ROW-000001,citizen m chicago downtown,80 east wacker place,chicago,60601,chicago_0
+ Courtyard New York World Trade,100 Greenwich Street ,New York,10006,427963,40.708283449999996,-74.01373464899515,locationiq,success,ROW-000006,courtyard new york world trade,100 greenwich street,new york,10006,new york_0
+ Hotel Park Avenue,444 Park Avenue South,New York,10016,383614,40.7447966,-73.9832361,locationiq,success,ROW-000016,hotel park avenue,444 park avenue south,new york,10016,new york_1
+  The Sheraton New York Times Square,811 7Th Avenue At 53Rd Street,New York,10019,52576,,,none,failed,ROW-000003,the sheraton new york times square,811 7th avenue at 53rd street,new york,10019,new york_2
+ Courtyard Berlin City Center,Axel Springer Strasse 55,Berlin,10117,67168,52.5097544,13.3994858,locationiq,success,ROW-000005,courtyard berlin city center,axel springer strasse 55,berlin,10117,berlin_0
+ Gasthof Linde,Untere Vorstadt 1,Albstadt,72458,1262866,48.2129799,9.028001,locationiq,success,ROW-000009,gasthof linde,untere vorstadt 1,albstadt,72458,albstadt_0
+ Hilton Vienna Park,Am Stadtpark 1,Vienna,1030,47489,48.2059869,16.3833148,locationiq,success,ROW-000012,hilton vienna park,am stadtpark 1,vienna,1030,vienna_0
+ Hilton Vienna Park,,Vienna,1030,47489,,,none,failed,ROW-000022,hilton vienna park,,vienna,1030,vienna_1
+ Hotel De Nell,7 - 9 Rue Du Conservatoire,Paris,75009,80696,48.8731226,2.3468543,locationiq,success,ROW-000013,hotel de nell,7 - 9 rue du conservatoire,paris,75009,paris_0
+ Hotel De Nell,7 - 9 Rue Du Conservatoire,Paris,,80696,,,none,failed,ROW-000023,hotel de nell,7 - 9 rue du conservatoire,paris,,paris_1
+ Les Tresorieres,2 Place Jean Meunier,Tours,37000,1882157,47.3905185,0.6813793,locationiq,success,ROW-000017,les tresorieres,2 place jean meunier,tours,37000,tours_0
+ Loews Miami Beach Hotel,1601 Collins Avenue,Miami,33139,34321,25.7893831,-80.12934426562256,locationiq,success,ROW-000018,loews miami beach hotel,1601 collins avenue,miami,33139,miami_0
+ Luxembourg Marriott Hotel Alfa,16 Pl. De La Gare,Luxembourg,1616,1881528,49.6008836,6.1330491,locationiq,success,ROW-000019,luxembourg marriott hotel alfa,16 pl. de los angeles gare,luxembourg,1616,luxembourg_0

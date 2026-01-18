@@ -1,0 +1,12 @@
+Hotel Name,Hotel Address,Hotel City,Hotel Zip,GDS Code,Enriched_Lat,Enriched_Lon,Geo_Source,Geo_Status,Row_Id,Norm_Hotel_Name,Norm_Hotel_Address,Norm_Hotel_City,Norm_Hotel_Zip,Id
+  Hilton Riyadh Olaya,8474 King Fahd Road,Riyadh,12333,494944,,,none,failed,ROW-000002,hilton riyadh olaya,8474 king fahd road,riyadh,12333,
+  The Sheraton New York Times Square,811 7Th Avenue At 53Rd Street,New York,10019,52576,,,none,failed,ROW-000003,the sheraton new york times square,811 7th avenue at 53rd street,new york,10019,new york_2
+ Cala Ponte Resort And Spa,Localita San Vito S.N.C.,Polignano A Mare,70044,316850,,,none,failed,ROW-000004,cala ponte resort and spa,localita san vito s.n.c.,polignano a mare,70044,
+ Durham Marriott Hotel Royal County,Old Elvet,Durham,Dh1 2Jn,4919,,,none,failed,ROW-000007,durham marriott hotel royal county,old elvet,durham,dh1 2jn,
+ Fairfield Inn And Suites Marriott,100 Lawrence Rd,Broomall,19008,495211,,,none,failed,ROW-000008,fairfield inn and suites marriott,100 lawrence rd,broomall,19008,
+ Grand Hotel Vilnius  Curio Collection By Hilton,Universiteto Street 14,Vilnius,01122,79118,,,none,failed,ROW-000010,grand hotel vilnius curio collection by hilton,universiteto street 14,vilnius,01122,
+ Hilton Boston Park Plaza,50 Park Plaza At Arlington Street,Boston,02116-3912,57145,,,none,failed,ROW-000011,hilton boston park plaza,50 park plaza at arlington street,boston,02116-3912,
+ Hotel Gotham,100 King Street,Manchester,M2 4Wu,82739,,,none,failed,ROW-000014,hotel gotham,100 king street,manchester,m2 4wu,
+ Hotel Nia,200 Independence Drive,Menlo Park,94025,426387,,,none,failed,ROW-000015,hotel nia,200 independence drive,menlo park,94025,
+ Hilton Vienna Park,,Vienna,1030,47489,,,none,failed,ROW-000022,hilton vienna park,,vienna,1030,vienna_1
+ Hotel De Nell,7 - 9 Rue Du Conservatoire,Paris,,80696,,,none,failed,ROW-000023,hotel de nell,7 - 9 rue du conservatoire,paris,,paris_1
